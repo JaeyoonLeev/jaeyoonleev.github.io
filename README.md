@@ -6,22 +6,22 @@
 
 # 👋 Intro
 >
->> - 이재윤  
->> - 연성대학교 컴퓨터소프트웨어과 졸업
->> - jaeyoonleev@gmail.com
->> - github.com/JaeyoonLeev
+> - 이재윤  
+> - 연성대학교 컴퓨터소프트웨어과 졸업
+> - jaeyoonleev@gmail.com
+> - github.com/JaeyoonLeev
 
 
 # 📝IDE
->> - VisualStudio 2019
->> - VisualStudio Code
+> - VisualStudio 2019
+> - VisualStudio Code
 
 # 📝MySkill
-> C#
-> .netFramework 4.7.2
-> DevExpress 21.1.6
-> mariaDB
-> Python 3.8
+> - C#
+> - .netFramework 4.7.2
+> - DevExpress 21.1.6
+> - mariaDB
+> - Python 3.8
 
 # 📝보유자격증
 > 정보처리기사
