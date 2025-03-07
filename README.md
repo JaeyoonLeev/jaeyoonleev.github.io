@@ -10,7 +10,6 @@
 > - 연성대학교 컴퓨터소프트웨어과 졸업
 > - jaeyoonleev@gmail.com
 > - github.com/JaeyoonLeev
-> - 다수 공장의 MES 제조 경험이 있습니다.
 
 
 # 📝IDE
