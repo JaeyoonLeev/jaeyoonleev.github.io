@@ -1,6 +1,6 @@
 # 📜 이재윤 포트폴리오
 
-> 이재윤(Dongwoo Kim) - kimphysicsman 포트폴리오
+> 이재윤(Jaeyoon Lee) - jaeyoonleev 포트폴리오
 
 <br />
 
@@ -41,14 +41,13 @@
 
 ## 2. 👞 MyLittleShoes
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
->
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+ 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+
+ - 개발기간 : 2022.06.28-07.06
+ - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
+ - Language : python3
+ - Skill : Django, Django-rest-framework
+[프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
@@ -104,32 +103,7 @@
 <br />
 
 # 🎞 Youtube
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
 
-
-<br />
-<br />
 
 # 📞 Contact
 
