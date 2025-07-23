@@ -23,7 +23,7 @@
 > - DevExpress 21.1.6
 > - MySQL
 > - mariaDB
-> - Python 3.8
+> - Python 3.10
 
 # 📝보유자격증
 > - 정보처리기사
@@ -39,7 +39,10 @@
 >   
 > - 네이버 클라우드 & 이스트 소프트 AI/보안 부트캠프
 >> - 교육기간 : 2025.02 - 2025.07
->> 
+>> - 프로젝트명 : 클라우드 오브젝트 스토리지 기반 개인정보 및 악성파일 탐지 시스템 개발
+>> - 팀 프로젝트 1위
+>> - 깃허브 : <a href="https://github.com/nochulban/">
+  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
 
 
 
@@ -61,10 +64,6 @@
 
 
 <br />
-
-# 🎞 Youtube
-
-
 # 📞 Contact
 
 - 이메일 : jaeyoonleev@gmail.com
@@ -73,7 +72,4 @@
   </a>
 - 깃허브 : <a href="https://github.com/jaeyoonleev">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
-- 유튜브 :
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
