@@ -41,9 +41,7 @@
 >> - 교육기간 : 2025.02 - 2025.07
 >> - 프로젝트명 : 클라우드 오브젝트 스토리지 기반 개인정보 및 악성파일 탐지 시스템 개발
 >> - 팀 프로젝트 1위
->> - 깃허브 : <a href="https://github.com/nochulban/">
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
+>> - 깃허브 : https://github.com/nochulban/
 
 
 > 활동내역
